@@ -2,3 +2,7 @@
 2025-10-09 17:14:01,773 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
 2025-10-09 17:14:01,773 - server_module - INFO - Adding 1 and 2
 2025-10-09 17:14:01,773 - server_module - INFO - Result: 3
+2025-10-09 17:56:10,236 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-09 17:56:10,237 - __main__ - INFO - Adding 2 and 3
+2025-10-09 17:56:10,237 - __main__ - INFO - Result: 5
+2025-10-09 17:56:10,238 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
